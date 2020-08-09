@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PortName>COM5</PortName>
+  <BaudRate>_34000</BaudRate>
+  <DataBit>_7</DataBit>
+  <Paritys>None</Paritys>
+  <StopBit>OnePointFive</StopBit>
+  <Address>192.168.0.35</Address>
+  <PortNum>7456</PortNum>
+  <CommandDataList>
+    <CommandData>
+      <Name>TEMP2000</Name>
+      <Command>01RSD,03,0001</Command>
+      <STX>true</STX>
+      <ETX>false</ETX>
+      <CR>true</CR>
+      <LF>true</LF>
+    </CommandData>
+    <CommandData>
+      <Name>TEMP2000INFO</Name>
+      <Command>01AMI38</Command>
+      <STX>true</STX>
+      <ETX>false</ETX>
+      <CR>true</CR>
+      <LF>true</LF>
+    </CommandData>
+    <CommandData>
+      <Name>BACKLIGHT ON</Name>
+      <Command>W7000ON</Command>
+      <STX>true</STX>
+      <ETX>true</ETX>
+      <CR>false</CR>
+      <LF>false</LF>
+    </CommandData>
+    <CommandData>
+      <Name>BACKLIGHT OFF</Name>
+      <Command>W700OFF</Command>
+      <STX>true</STX>
+      <ETX>true</ETX>
+      <CR>false</CR>
+      <LF>false</LF>
+    </CommandData>
+    <CommandData>
+      <Name>LOADCELL</Name>
+      <Command>1R</Command>
+      <STX>false</STX>
+      <ETX>false</ETX>
+      <CR>false</CR>
+      <LF>false</LF>
+    </CommandData>
+    <CommandData>
+      <Name>SDC15</Name>
+      <Command>0100XRS,9101W,1</Command>
+      <STX>true</STX>
+      <ETX>true</ETX>
+      <CR>true</CR>
+      <LF>true</LF>
+    </CommandData>
+    <CommandData>
+      <Name>CW LASER</Name>
+      <Command>MKOPEN,C:\Project\NAME.lws</Command>
+      <STX>false</STX>
+      <ETX>false</ETX>
+      <CR>true</CR>
+      <LF>false</LF>
+    </CommandData>
+  </CommandDataList>
+  <Interval>1000</Interval>
+</SettingData>
