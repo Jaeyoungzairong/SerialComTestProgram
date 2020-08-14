@@ -9,9 +9,5 @@
 
 
 #### 2. UI 구성
-<div align=center> 
-  ![1](https://user-images.githubusercontent.com/69396761/90211198-a6fbde00-de22-11ea-903a-1ecf14803c65.PNG)
-</div>
-
+![1](https://user-images.githubusercontent.com/69396761/90211198-a6fbde00-de22-11ea-903a-1ecf14803c65.PNG)
 ![2](https://user-images.githubusercontent.com/69396761/90211200-a82d0b00-de22-11ea-9cb0-ab4867d34c23.PNG)
-
