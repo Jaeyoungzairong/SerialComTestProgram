@@ -4,10 +4,10 @@
 
 #### 1. UI구성
 ##### ● Main Form
-![SerialMain](https://user-images.githubusercontent.com/69396761/89728898-473cb600-da63-11ea-87e5-34ea9f286fc7.PNG)
+![SerialMain](https://user-images.githubusercontent.com/69396761/89728898-473cb600-da63-11ea-87e5-34ea9f286fc7.PNG) ![SerialSetting](https://user-images.githubusercontent.com/69396761/89728899-499f1000-da63-11ea-9752-602bfd467d8c.PNG)
 
 ##### ● Setting Form
-![SerialSetting](https://user-images.githubusercontent.com/69396761/89728899-499f1000-da63-11ea-9752-602bfd467d8c.PNG)
+
 
 #### 2. 주요특징
 ##### ● 자주 쓰는 Command를 저장하여 편리하게 사용 가능
