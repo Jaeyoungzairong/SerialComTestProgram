@@ -1,4 +1,4 @@
-### Serial 및 TCP 통신 TEST 프로그램1</hr>
+### Serial 및 TCP 통신 TEST 프로그램</hr>
 
 #### 1. 주요기능
 ##### ● Serial 통신 기능(TCP는 TEST하지 못한 관게로 기능 구현X)
