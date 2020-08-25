@@ -1,4 +1,4 @@
-### Serial 및 TCP 통신 TEST 프로그램</hr>
+### Serial 및 TCP 통신 TEST 프로그램1</hr>
 
 #### 1. 주요기능
 ##### ● Serial 통신 기능(TCP는 TEST하지 못한 관게로 기능 구현X)
@@ -10,4 +10,3 @@
 #### 2. UI 구성
 ![1](https://user-images.githubusercontent.com/69396761/90211198-a6fbde00-de22-11ea-903a-1ecf14803c65.PNG) <hr/>
 ![2](https://user-images.githubusercontent.com/69396761/90211200-a82d0b00-de22-11ea-9cb0-ab4867d34c23.PNG)
-
