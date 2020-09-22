@@ -1,7 +1,7 @@
 ### Serial 및 TCP 통신 TEST 프로그램</hr>
 
 #### 1. 주요기능
-##### ● Serial 통신 기능(TCP는 아직 TEST하지 못한 관로 기능 구현X)
+##### ● Serial 통신 기능(TCP는 아직 TEST하지 못한 관계로 기능 구현X)
 ##### ● 송신 Command와 수신 후 출력된 값을 Text창에서 확인 가능 
 ##### ● 설정한 Timer Interval마다 반복적으로 Command를 보낼 수 있음
 ##### ● 자주쓰는 Command들을 저장하여 쓸 수 있음
